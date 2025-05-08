@@ -1,4 +1,4 @@
-#WAP to print Marvellous 5 times
+#WAP to print number is positive , negative, Zero
 
 def main():
     print("Enter your Number")
