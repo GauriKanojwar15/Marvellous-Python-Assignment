@@ -1,4 +1,4 @@
-#WAP to print Marvellous 5 times
+#WAP to print Number is divisible by 5
 
 def main():
     print("Enter your Number")

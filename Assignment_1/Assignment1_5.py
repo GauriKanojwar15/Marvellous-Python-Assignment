@@ -1,4 +1,4 @@
-#WAP to print Marvellous 5 times
+#WAP to print 10 to 1
 
 def main():
     for i in range(10, 0, -1):

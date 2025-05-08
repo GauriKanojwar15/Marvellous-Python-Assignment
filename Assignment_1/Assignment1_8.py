@@ -1,4 +1,4 @@
-#WAP to print Marvellous 5 times
+#WAP to print star according to inpute
 
 def main():
     print("Enter how many star you want")
