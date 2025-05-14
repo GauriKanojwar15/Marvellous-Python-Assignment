@@ -1,5 +1,6 @@
 def Display(no):
     Sum = 0
+    cnt = 0
     numbers = []
     for i in range(no):
         n1 = int(input("Input Elements: "))
@@ -8,7 +9,8 @@ def Display(no):
     n2 = int(input("Element to search: "))
     for i in range(len(numbers)):
         if(numbers[i] == n2):
-            return i
+            cnt = cnt + 1
+    return cnt
 
 
 
